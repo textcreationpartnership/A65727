@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of love and consolation unto Israel from the pouring forth of the spirit and holy anointing of the father, sent in bowels of tender love unto the chosen and elect seed of life, unto all the gathered church of the first born ... / D.W.</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65727</idno>
+            <idno type="STC">Wing W1748</idno>
+            <idno type="STC">ESTC R25734</idno>
+            <idno type="EEBO-CITATION">09096894</idno>
+            <idno type="OCLC">ocm 09096894</idno>
+            <idno type="VID">42430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1297:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of love and consolation unto Israel from the pouring forth of the spirit and holy anointing of the father, sent in bowels of tender love unto the chosen and elect seed of life, unto all the gathered church of the first born ... / D.W.</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Israel (Christian theology)</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42430:1" rendition="simple:additions"/>
+            <p>AN Epiſtle of Love, AND OF CONSOLATION UNTO ISRAEL, From the pouring forth of the SPIRIT, AND HOLY ANOINTING Of the FATHER:</p>
+            <p>Sent in Bowels of tender Love, unto the Cho<g ref="char:EOLhyphen"/>ſen and Elect Seed of Life, unto all the gathered Church of the <hi>Firſt Born;</hi> as a tender Vi<g ref="char:EOLhyphen"/>ſitation from the Divine Power of Life, Grace, Mercy, and Peace, which ſuperaboundeth to you all, from the God of the Faithful, unto <hi>Jacobs</hi> Seed.</p>
+            <p>
+               <hi>D.W.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42430:2"/>
+            <pb n="1" facs="tcp:42430:2" rendition="simple:additions"/>
+            <head>An Epiſtle of Love, and of Conſolation unto <hi>Iſrael,</hi> from the pouring forth of the Spirit, and holy Anointing of the Father, ſent in Bowels of tender Love, unto the Cho<g ref="char:EOLhyphen"/>ſen and Elect Seed of Life, <hi>&amp;c.</hi>
+            </head>
+            <div type="letter">
+               <p>A Trumpet ſounded out of the Holy City, pro<g ref="char:EOLhyphen"/>claiming the day of Salvation, and of <hi>Sions</hi> Redemption; and this is to go abroad, as ſent of the Father, as the greetings of Love and Life, unto his own Begotten, unto whom the free ſtreams of the pure eternal Fountain floweth, from the fulneſs of the Treaſures of Gods Wiſdom, which abundantly is mul<g ref="char:EOLhyphen"/>tiplyed and increaſed in the habitations of the Faith<g ref="char:EOLhyphen"/>ful; yea, the City of the living God, new Jeruſalem is come down from above, the bleſſed Habitation, in which floweth the everlaſting ſtreams of Love and Conſolation; the Kingdom of Glory is revealed, the Son of Righteouſneſs is riſen in his Beauty, in his tranſ<g ref="char:EOLhyphen"/>parent Brightneſs, the Glory of all Nations is come; and this is the Day, wherein the Lord God is binding up his Jewels, in the bond of Life, in the tye of his own Spirit; and the Lamb is come to Reign of his Temple, and bleſſed are all who are waiting for him, and for his glorious Appearance, who is coming with Power and with great Glory, to Reign in his eternal Majeſty; yea, the Son of Peace and of Conſolation is come, the expreſs Image of the Fathers Glory, the ve<g ref="char:EOLhyphen"/>ry Subſtance of all things, the end of the Prophets, the miniſtration of Life, which all are to feel within the holy Mountain of God; where the Table is ſpread,
+<pb n="2" facs="tcp:42430:3"/>where the Feaſt of fat things is prepared, where <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> Well is ſet open, where the ſtreams of the pure Fountain freely flow in the ſtill Habitation. Oh, the vertue of the Life of the Love of God! feel the Breaſt of everlaſting Conſolation, draw, drink abundantly; there is no end of this pure River, whoſe Waters are as clear as Chryſtal; and from the Throne of the moſt Holieſt, the waters ſlow plentifully; in the glorious dwelling-place, in the Habitation of <hi>Iſraels</hi> God, with<g ref="char:EOLhyphen"/>in the Tents of <hi>Jacob,</hi> where the harmony of Angels is heard, where the ſound of the holy One is uttered forth; in the midſt of the Temple of God, in the Hea<g ref="char:EOLhyphen"/>ven of Heavens, where the Turtle-Doves do flie from the Throne of his Glory, whoſe Majeſty and Bright<g ref="char:EOLhyphen"/>neſs hath raviſhed my heart.</p>
+               <p>And the Lord God hath ſpoken, and therefore I will ſpeak, for God hath unlooſed my tongue, to ſpeak to the praiſe of his Name, who is the great and won<g ref="char:EOLhyphen"/>derful Counſellor, the mighty God of <hi>Iſrael,</hi> the holy One, in the midſt of the Tents of <hi>Jacob,</hi> where Glory and Peace poſſeſſeth her dwelling places, the Kingdom that is without end: God hath revealed the Kingdom, which conſiſteth in Power and Life; ſo all are to come who believe in that Power which createth anew in Chriſt Jeſus; that Power which reneweth into the Image and likeneſs of God, as in the beginning; for God planted his Lilly in his own Paradiſe, which Lilly ſometimes grew among the Thorns; ſo all are to feel the good Husband-man, to pluck up the Thorns, that ſo the Lilly may grow and increaſe, and over-ſpread the earth; and this Lilly God will cloath with a more glorious Garment, with a more beautiful Raiment,
+<pb n="3" facs="tcp:42430:3"/>than <hi>Solomon</hi> the Wiſe King was cloathed with; the Robe of Honour, the Garment of Grace, God will put on upon his own Seed the Plant of his renown, and this ſhall overſpread the earth; where briars and brambles have grown, there ſhall the Lilly grow, and there ſhall the voice of the Turtle ſing; and the Winter is paſſing away, and the Summer is well nigh come, wherein the Lilly begins to appear in the field of plea<g ref="char:EOLhyphen"/>ſure, after the frosty Winter, after the dark howling Night; for out of the Wilderneſs God is leading <hi>Iſrael</hi> by the hand, into the <hi>good Land,</hi> through the <hi>Red Sea,</hi> in the <hi>narrow Way,</hi> in the <hi>ſtraight Path,</hi> where the Holy tread and walk, and are not weary, for the ſound of the voice of the glorious God is <hi>heard,</hi> whole voice giveth Life; and now is the laſt Trumpet ſounded, which hath raiſed the <hi>Dead,</hi> which hath <hi>opened the Graves,</hi> and the <hi>diſſolving Power</hi> of the Lord God, is diſſolving <hi>Hell</hi> and <hi>Death;</hi> ſo that <hi>Power</hi> which raiſeth the <hi>Dead</hi> to <hi>Life,</hi> all are to preſs after, to be raiſed there<g ref="char:EOLhyphen"/>by unto the <hi>Reſurrection of Life;</hi> ſo the <hi>breathing Pow<g ref="char:EOLhyphen"/>er,</hi> the inlivening <hi>quickning Spirit</hi> of the <hi>ſecond Adam,</hi> all are to wait in, to hear the voice of the <hi>Shepherd</hi> of <hi>Iſrael,</hi> whoſe voice the <hi>Living</hi> come to hear, who are raiſed to <hi>Life</hi> thereby: And this is the day of the Lord God, wherein he hath appeared in everlaſting and eter<g ref="char:EOLhyphen"/>nal glorious <hi>Brightneſs,</hi> who is breaking open the depths of the <hi>Myſteries</hi> of his own <hi>Kingdom,</hi> which <hi>Myſteries</hi> are revealed in the hearts of the <hi>Faithful,</hi> who know the <hi>Key</hi> of <hi>David,</hi> which <hi>ſhuts</hi> and <hi>opens,</hi> which <hi>reveals</hi> and <hi>ſeals;</hi> and bleſſed are all who dwell in the <hi>Life,</hi> of the <hi>Holy Lamb,</hi> ſuch know the ſweet <hi>Conſolation,</hi> ſuch know the pure <hi>Fountain</hi> of <hi>Life,</hi> which is <hi>Eternal
+<pb n="4" facs="tcp:42430:4"/>Love,</hi> ſuch are <hi>Born of Love;</hi> and this is the Birth which is brought forth thorough the <hi>Travel,</hi> thorough <hi>Death,</hi> thorough the <hi>Tribulation;</hi> the <hi>Life</hi> of the <hi>Lamb of God</hi> is raiſed, which <hi>Life</hi> muſt Reign, for God is advancing his <hi>choſen Seed,</hi> God is eſtabliſhing it on the Throne of <hi>David,</hi> in the <hi>Ark</hi> of his moſt holy <hi>Treaſure,</hi> where his ſecret <hi>walkings</hi> are known; and the Word of the Lord God is a <hi>burning</hi> and a <hi>ſhining Light,</hi> which <hi>Light</hi> is the <hi>Leader</hi> of <hi>Iſrael,</hi> the <hi>Star</hi> of <hi>Jacob,</hi> which goeth before the <hi>Followers</hi> of the <hi>Lamb,</hi> and this is <hi>Iſraels Leader,</hi> the <hi>Light,</hi> the <hi>Truth,</hi> the <hi>Life:</hi> who are led by it into <hi>all Truth,</hi> ſuch know the <hi>Promiſe</hi> of the Father fulfil<g ref="char:EOLhyphen"/>ed in them, ſuch know the pouring forth of the <hi>Spirit,</hi> the <hi>holy Anointing;</hi> ſuch are they who are <hi>taught</hi> of the Lord, who are eſtabliſht in the <hi>Kingdom</hi> of <hi>God,</hi> who know the <hi>windows</hi> of Heaven opened, and the <hi>Rain</hi> deſcending, who know the <hi>Propheſies</hi> of the <hi>Sprit</hi> of <hi>Life;</hi> ſuch are come to the <hi>everlaſting Prophet,</hi> the <hi>High Prieſt</hi> of God, the <hi>Wiſe Counſellor,</hi> the <hi>King</hi> of all <hi>Nations,</hi> who ruleth all things by the <hi>Word</hi> of his <hi>Au<g ref="char:EOLhyphen"/>thority,</hi> who rebuketh the <hi>Waters,</hi> and turneth the <hi>Waves</hi> backward; and bleſſed are all, who know him in the Veſſel, who ariſeth to rebuke the <hi>Waves,</hi> when the <hi>Waters</hi> ſwell and are troubled, then hath his voice ſpoken <hi>Peace;</hi> and this is known in the, <hi>Way</hi> to <hi>Life,</hi> and this many muſt come to know, before they enter into the <hi>Land</hi> of <hi>Reſt,</hi> before they enter into the <hi>King<g ref="char:EOLhyphen"/>dom</hi> of God, which I ſay is come unto; they who have <hi>waited,</hi> who have <hi>believed</hi> in the <hi>Light,</hi> ſuch receive the <hi>Life,</hi> who in the <hi>Light</hi> wait, in the <hi>ſilence,</hi> in the ſtill <hi>Habitation,</hi> ſuch come to hear the voice of their <hi>Be<g ref="char:EOLhyphen"/>loved,</hi> ſuch come to be cloathed with the <hi>Righteouſneſs
+<pb n="5" facs="tcp:42430:4"/>of God:</hi> but firſt all muſt know the <hi>putting off,</hi> the <hi>ſtrip<g ref="char:EOLhyphen"/>ping,</hi> the <hi>purifying,</hi> the <hi>dying,</hi> and ſo the change is wrought by the unchangeable <hi>Word,</hi> by which all things are made anew, and a <hi>new Life</hi> is brought forth; and this is the very <hi>ſubſtance</hi> of all Profeſſion, to know the <hi>Kingdom</hi> of God revealed, and to know the <hi>Son of God</hi> to bear Rule in the heart, who is come to <hi>Reign,</hi> and to caſt out the <hi>unclean Spirits;</hi> ſo all muſt come to know the effectual working of the <hi>Divine Power of Life,</hi> which worketh in the <hi>Love,</hi> which <hi>Love</hi> deſtroyes death, which breaketh the <hi>cords</hi> thereof; and all who come to know the working of the nature of <hi>Love,</hi> are brought into the nature of its <hi>Life, Likeneſs,</hi> and <hi>Image;</hi> ſo here where the work of God goeth on, there is the <hi>rejoycing</hi> known, becauſe of the Glory which ſhineth in from Gods moſt <hi>holy Providence,</hi> where the ſtreams of his <hi>Life</hi> flow continually this maketh all to <hi>rejoyce</hi> and to <hi>ſing</hi> for <hi>joy</hi> of <hi>heart,</hi> for the <hi>Bridegroom</hi> is come, the <hi>Virgins</hi> have <hi>met</hi> him, and the <hi>Damoſels</hi> dance at the glory of his <hi>Brightneſs,</hi> who heareth the ſound of the <hi>Harp</hi> of <hi>David,</hi> where the <hi>new Songs</hi> are heard, where the <hi>Turtle ſings,</hi> where our <hi>Beloved rejoyceth,</hi> becauſe of the <hi>ſmiles</hi> of the Fathers <hi>lovely countenance,</hi> whoſe <hi>beau<g ref="char:EOLhyphen"/>tiful appearance</hi> exceedeth in <hi>Glory,</hi> whoſe Majeſty <hi>reigneth,</hi> whoſe Kingdom is <hi>come,</hi> and a glorious <hi>ſound</hi> is gone forth as a mighty ſhout; therefore let the <hi>Righ<g ref="char:EOLhyphen"/>teous rejoyce,</hi> and let the <hi>Inhabitants</hi> of <hi>Jeruſalem be glad,</hi> let the <hi>Heavens</hi> and the tops thereof <hi>ſhout,</hi> for a <hi>mighty King</hi> is in the midſt, the <hi>Reign</hi> of the God of <hi>Iſrael</hi> is come; and therefore this was upon my heart, to <hi>ſound</hi> forth the <hi>day</hi> of <hi>Sions Redemption:</hi> And this was the voice that run thorough me, that <hi>Sions Re<g ref="char:EOLhyphen"/>demption</hi>
+                  <pb n="6" facs="tcp:42430:5"/>draweth nigh, wherein her Converts ſhall ſing for <hi>Joy of heart,</hi> for the <hi>raviſhing</hi> Glory of God did overſhadow me, and the Word of <hi>Eternal Life</hi> run thorough me, often ſaying, <hi>Publiſh the day of the Lord God, lift up thy voice like a Trumpet, as a mighty ſhout; and this is to go thorough this Nation, as it was given into me, for this very end, to ſend it with ſpeed, as the everlaſting Meſſage of Life, as the greetings of Peace, by the Word of Salvation:</hi> And the Truth of the Lord I muſt ſpread, for the Lord God hath lighted my Candle, and it muſt not be hid; and thus ſaith the Spirit of Truth, <hi>Publiſh the day of the Lord God; and in the free Authority of the Spirit of Life, I ſend this Meſſage of Truth by the ſtreams of Love, from the Son of Love and of Conſolation, whoſe day is come, whoſe Name ſhall ſound thorough the Nations, and many ſhall be gathered to walk in the Light of</hi> Sion, <hi>who ſhall have a Habitation in the Tents of</hi> Jacob, <hi>in</hi> Je<g ref="char:EOLhyphen"/>ruſalem; <hi>the City of the Faithful, and Beloved of God; for many ſhall be gathered in this glorious day, for God is ſet<g ref="char:EOLhyphen"/>ting of the Seed of Sion free:</hi> And the Free-born Chil<g ref="char:EOLhyphen"/>dren ſhall inherit the Land of Promiſe, the Seed of <hi>Abraham,</hi> who are born of the Birth of God, who are Heirs of the <hi>Kingdom</hi> and <hi>Crown of Life:</hi> Theſe are they who are of the number of God, who are the Lambs Army, who follow him whereſoever he goeth; for the Lion of the Tribe of <hi>Judah</hi> hath roared with a voice of Thunder, ſounding forth the day of the Lord God, unto the Inhabitants of the Earth, that they may ha<g ref="char:EOLhyphen"/>ſten into the Ark of God, before the Flood cometh; for verily I do declare what I have ſeen: <hi>A Flood ſhall come ſuddenly, and bleſſed are all who prepare into the in<g ref="char:EOLhyphen"/>tired Life;</hi> who are found in that day to be of the num<g ref="char:EOLhyphen"/>ber
+<pb n="7" facs="tcp:42430:5"/>of God, who are marked with the Lambs Mark, who are ſealed with the Seal of Life: And in the Au<g ref="char:EOLhyphen"/>thority of the Divine Majeſty of the holy Wiſe God, I do declare the day of the Lord which is coming, which is glorious to the Righteous, but the day which is torrible to the unrighteous; and unutterable is the Glory of the day of the Lord, that ſhall ſhine in the Habitations, and in the Tents of <hi>Iſrael;</hi> for Chriſt our Life is riſen, and ariſing and appearing in Glory, and we ſhall appear in Glory with him, and he will glorifie his with the ſame Glory that he had with the Father, be<g ref="char:EOLhyphen"/>fore the world was yea, Crowns of Lite, Robes of Righteouſneſs, Garments of glorious Praiſe, are pre<g ref="char:EOLhyphen"/>pared for the Faithful, for the Choſen, who are true <hi>Iſraclites,</hi> who are Plants growing in the Paradiſe of God, who are born of the Seed of the Birth of Life; ſuch ſhall inherit the Kingdom of everlaſting Glory, ſuch ſhall triumph in Heaven, having the Songs of praiſes in their mouths, ſinging with Grace in their hearts, before the Throne of the moſt Holy, Glorious, Wiſe God, who is exalting his Name in the Earth, who is eſtabliſhing his Throne on the tops of the Moun<g ref="char:EOLhyphen"/>tains: on the Throne of <hi>David</hi> ſhall the Prince of Life Reign; the Spirit of Life hath filled me with his Love, to declare to you the glorious day of the Lord God, whoſe Light did ſhine about me, whoſe Glory, whoſe Pretence, whole Life hath filled me, the ver<g ref="char:EOLhyphen"/>tue of the Power ſeel, the increaſe of his Love, the ra<g ref="char:EOLhyphen"/>viſhing Beauty of the Lord God hath overſhadowed the Earth, the Springs of the holy Fountain runneth in the Valleys low, where the praiſes of God are ſoun<g ref="char:EOLhyphen"/>ded forth unto his moſt holy Majeſty, in the ami<g ref="char:EOLhyphen"/>able Habitation in the Tents of the glory of God,
+<pb n="8" facs="tcp:42430:6"/>where the Sun ſhineth in his Beauty, where the Lilly of the Life ſprings up out of the holy Root, the Righteous Branch of <hi>David,</hi> the Kingdom is come, and the new Songs are known, with praiſes ſounded forth unto the holy One: And in the deep his voice is very ſweet, unto the Hungry is Bread, both Life and Meat. Oh! the depth of Love, which death it ſhall deſtroy, for the Life is come, which leads the narrow Way; And therefore unto All, I ſay come away, and prepare unto the glorious day, that into the Fountain of Life, you all may come and drink, and in Marriage to the Lamb, you may both joyn and link: For the Table is both fully ſpread, the Life is come, which raiſeth from the dead; And he is riſen, the Na<g ref="char:EOLhyphen"/>tions have to heal'd; Who in this day his Fountain hath unſeal'd. And <hi>Sions</hi> Beauty hath now raviſht me, there<g ref="char:EOLhyphen"/>fore I do ſound forth the glorious Day, that all may hear the ſound thereof, that they may be gathered that are yet afar off, into the Sheepfold, where Chriſt is the Shepherd, who feedeth his with ever living Bread, who hath raiſed many again from the dead, to ſpread and to publiſh his moſt glorious Name, and to ſound forth the Beauty of his fame, that many may be gathered, in this the glorious Day, for the voice hath ſounded, which ſaith, come away; for the life of the Lamb is revealed in great Power, in Majeſty and Glory, and the ſinging of Birds is heard, with the voice of the Turtle, is heard within, in this the time of Spring, wherein Summer hath appeared, and now the voice of the Well-beloved is heard; and unto my Beloved, unto Thee, I ſweetly ſing, as the Turtle in the time of Spring; who for joy that ſhe hath found her Mate, what from thy love ſhall me ſeperate? my foul doth ſwim within the Sea of
+<pb n="9" facs="tcp:42430:6"/>love, as doth the fiſhes in the water move; and there<g ref="char:EOLhyphen"/>by doth live, for it is their life, ſo to me thou art my joy, &amp; my delight, who art moſt faithful and moſt true, holy and wiſe, who never forſakes thine. And my friends, my love floweth freely unto you, in God moſt holy, moſt faithful, and moſt true; and in the Life you may my love feel, which burns from God in vertue and in zeal; which love to you I do this day ſound, which in Ecchoes ſweet, Gods glory and renown, I do ſend forth and declare, being fuller than my life can bear, of the waters out of <hi>Jacobs</hi> Well, whoſe waters ſweet in vertue doth excel; which as honey out of the Rock doth flow, and as Rain into the Sea doth go, and Gods voice as the Thunder doth flie, is deſcended forth as lightning from the Skie; that the ſound of it the Nations may all hear, that before the mighty God they may both dread and fear: And this is the day wherein the Lord is come, to eſtabliſh the Kingdom of his glorious Son; who muſt Reign over all as Head, even he whom God hath raiſed from the dead; who under the earth hath been ſlain, but now in Glory is reveal'd again; who will vengeance take on all, who would not that he ſhould Reign; ſuch in the Lake he will throw, with ſorrow and with woe: Yea, the day is come, that God moſt true, will make a ſeparation amongſt the Nations, and they that ſhall be ſaved, ſhall walk in the <hi>Light</hi> of <hi>Sion,</hi> and in the <hi>Beauty</hi> and <hi>Glory</hi> of <hi>Jeruſalem,</hi> the <hi>Saints</hi> of the moſt <hi>High</hi> ſhall dwell under the ſhadow of his <hi>Love,</hi> in the glourious <hi>Bright<g ref="char:EOLhyphen"/>neſs,</hi> in the excellency of his <hi>Beauty;</hi> for the mighty <hi>Day</hi> is come, wherein over all God will exalt &amp; glorifie his <hi>Son,</hi> whoſe <hi>Kingdom</hi> &amp; <hi>Power</hi> is made known, whom God will ſet again on his moſt holy <hi>Throne;</hi> and over
+<pb n="10" facs="tcp:42430:7"/>all, as King he ſhal <hi>Reign,</hi> &amp; before him his <hi>Enemies</hi> ſhall be ſlain; for the King of all Nations is come, there<g ref="char:EOLhyphen"/>fore let all be ſubject to the <hi>Son.</hi> And you <hi>Babes</hi> of the <hi>Morning,</hi> who are born of the day of God, this is ſent to you all, as the Meſſage of his <hi>Love</hi> and <hi>Life;</hi> whoſe <hi>Springs</hi> are freely ſet open, to all the <hi>faithful Worſhippers</hi> of God; this I deſire may be publiſhed with ſpeed, to go thorow this Nation, as it hath often gone thorow me as a <hi>joyful Sound,</hi> ſent from the <hi>King of Iſrael,</hi> to whom be <hi>eternal glorious Praiſes</hi> for ever, with <hi>Hallelujahs</hi> unto the <hi>holy One,</hi> from whom it is ſent and publiſht,</p>
+               <byline>By <hi>Dorathy White,</hi>
+               </byline>
+               <closer>
+                  <date>The 20. of the 8. Month, 1661.</date>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>Unto thee my <hi>Beloved,</hi> my <hi>ſtreams</hi> of <hi>Love</hi> doth <hi>ſlow,</hi> as doth the <hi>Rain,</hi> which into the Sea doth go; and the time is come, wherein the <hi>Turtle ſings</hi> in the <hi>Valleys</hi> low: And ſo ſweet my ſtreams of <hi>Life</hi> doth run, in beams of <hi>Brightneſs,</hi> deſcending from the Sun; <hi>Glory</hi> and <hi>Peace</hi> doth fully increaſe, from God moſt true and juſt, who is faithful unto all, who in his <hi>Name</hi> doth truſt; and in the <hi>pure Life,</hi> all his voice may hear, by all that upon him wait, and to him draw neer:This is the day, wherein the Lord is come, with the <hi>Bride<g ref="char:EOLhyphen"/>groom,</hi> ſo glorious is the Sun, which is now breaking forth in his glory <hi>Bright,</hi> to gather the Nations, to walk in his <hi>pure Light:</hi> This is the day, wherein <hi>Sion</hi> hath appeared, and her ſweet harmonious ſounds, the Nations all muſt hear; whoſe Glory muſt overſpread the Earth, whole Light leadeth again, and bringeth from
+<pb n="11" facs="tcp:42430:7"/>the Death; whoſe Power hath broke open the graves, and hath raiſed the ſlain, to ſit on <hi>Davids</hi> Throne to Reign; what ſhall I ſay? the depths of Gods <hi>Love,</hi> from which Hell nor Death cannot us move; who are of <hi>Abrahams</hi> ſtock, who are of <hi>Jacobs</hi> Seed, and in the depth of my Life, all my Love may read; which is come to advance his <hi>glorious Name,</hi> and throughout the earth to ſpread his <hi>eternal Fame;</hi> that the Nations unto him may come, that they may be gathered by the true light of the Son; that the blind may now come and ſee, the glorious light of the moſt <hi>holy Day,</hi> that with the <hi>Lamb</hi> they may ever Reign, who hath raiſed and brought from the Dead again; there<g ref="char:EOLhyphen"/>fore <hi>Sion</hi> lift up thy voice and <hi>ſing,</hi> ſhout for <hi>joy,</hi> and let thy <hi>Name</hi> thorough the Nations <hi>Ring;</hi> for thy King is now come to Reign, and to ſit on <hi>Davids</hi> Throne again; and Life is now revealed, and Immortality, and the Fountain full, God hath unſealed to refreſh the wea<g ref="char:EOLhyphen"/>ry, the hungry, and the thirſty drinketh abundantly at the full; ſtreams of Life at the Well-ſpring of Salva<g ref="char:EOLhyphen"/>tion, the <hi>Kingdom</hi> is come, the Nations ſhall be gather<g ref="char:EOLhyphen"/>ed into the Kingdom, to walk in the <hi>Light</hi> which lead<g ref="char:EOLhyphen"/>eth into the Kingdom, into the Holy City, into the Bride-chamber; for the marriage of the Lamb is come, the beautiful Garments are prepared; for the Lambs Wife, the Bridegroom hath met the Bride, and the Holy City is revealed, the Heavenly <hi>Jeruſalem</hi> is come; where the Harmonies are heard, where the Angels ſing before the Lambs Throne, where the Trumpets of God are ſounded forth, where the ſhouts are ſounded through the Earth, where the voices of Angels are heard as Harps, harping the new Songs; <hi>Hoſanna</hi> is
+<pb n="12" facs="tcp:42430:8"/>ſung in <hi>Sion,</hi> by the Tribes of <hi>Iſrael,</hi> who ſitteth on the Throne, judging the Earth, with all its unrighte<g ref="char:EOLhyphen"/>ouſneſs; yea, Victory is come, the Lamb hath over<g ref="char:EOLhyphen"/>come the world, he hath run the Race, and to him is the Crown given: And this my Friends is ſent to you from God, moſt holy, moſt faithful, and moſt true; and you all in the Life may feed, and in the deep Gods myſteries come to read; for my Life is very neer to you, with whom I am bound in the Bond that's true; where my Life with you, up is ſeal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and from God my Myſteries are reveal'd; and with you all, I do lye down and reſt, ſucking at Gods moſt holy Breaſt; for Gods Conſolation doth evermore abound, where ſalvation is become a Crown of Life to me, and to all, who are walking in the day; ſo the living voice of the Lord all come to hear, within his Mountain, where the waters clear, run from <hi>Jacobs</hi> Well, out of which I drink, and bid you all farewel.</p>
+               <lg>
+                  <l>
+                     <hi>Well-beloved Friends, who are of</hi> Jacobs <hi>Seed,</hi>
+                  </l>
+                  <l>
+                     <hi>In the Love and Life all come to read,</hi>
+                  </l>
+                  <l>
+                     <hi>And drink of the Waters ſweet, which floweth from</hi> Jacobs <hi>Well,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe Waters are as Honey, and in Vertue doth excel;</hi>
+                  </l>
+                  <l>
+                     <hi>The ſtreams from God, you may all come to feel,</hi>
+                  </l>
+                  <l>
+                     <hi>And drink out of the Fountain, which doth the Nations heal;</hi>
+                  </l>
+                  <l>
+                     <hi>I well know the ſtreams doth run within,</hi>
+                  </l>
+                  <l>
+                     <hi>Which cauſeth all to rejoyce, and in the Valleys ſing:</hi>
+                  </l>
+               </lg>
+               <p>For God moſt holy is become our life, who hath re<g ref="char:EOLhyphen"/>deemed us from the earth, and brought us again, who hath ſet us free, into the glorious liberty of the Sons, and Son-ſhip of Life; ſo feel the eternal Power, the quickning and inclining Word of Life, which ſetteth free from the bondage of Hell and death; for free<g ref="char:EOLhyphen"/>dom
+<pb n="13" facs="tcp:42430:8"/>in the Name of the Lord God, I do this day proclaim, as the Meſſage of Life to all <hi>Sions</hi> Seed, whom God is bring<g ref="char:EOLhyphen"/>ing forth, whom God is advancing, whom God is glorifying; feel the Life of the holy Lamb, in the Kingdom of Gods glo<g ref="char:EOLhyphen"/>ry, that you may know it eſtabliſht in you, that you may know <hi>Sions</hi> Redemption come, that you may ſing the Praiſes of God in the holy Land; where Life is revealed, and Im<g ref="char:EOLhyphen"/>mortality is come, and Death is ſwollowed up into Victory, and the Seed God hath raiſed out of Captivity, where it hath been ſlain: This is Gods glorious Work, that he is working in the Earth, and a more glorious Work he will yet work and bring forth; this I do declare in the Name of the Lord God, that ſuch a Work God will bring forth, as ſhall aſtoniſh all gain-ſayers; and they that gaze and wonder, ſhall be amazed at the ſight thereof, and howle for vexation of ſpirit; for a day of howling is coming upon the world; but I ſay to you re<g ref="char:EOLhyphen"/>joyce, who are come out from the world; life up your heads, for your Redemption is at hand: And this I cannot but de<g ref="char:EOLhyphen"/>clare to you, ſeeing it ſo neer come, and bleſſed are all who dwell in the Faith of the Son of God, to be purified thereby, they ſhall be glorified in the day of his moſt Glorious Appea<g ref="char:EOLhyphen"/>rance, they ſhall ſit on the Throne of his Glory, reigning in the Dominion of God, for ever and ever: Therefore lift up your hands, and rejoyce and ſing, for our Beloved is come, who doth glad tidings bring, that you may be cloathed with Garments of Praiſe, after the day of mourning; that you may ſing the Songs of deliverance out of Captivity, as I do this day; that you may praiſe and glorifie the Name of the moſt High, for evermore: And this is the Salutation of my Life, in the Love of the Lord God, who am a Babe born of the ſame Birth of eternal Love, who live with you in the ſeed of Life, and in the King<g ref="char:EOLhyphen"/>dom and Patience of Jeſus Chirſt, do wait in the Tribulation, and alſo in the rejoycing, for the advancing of the Kingdom of God: So Grace be with you all, Amen: From your Friend,</p>
+               <closer>
+                  <signed>Dorothy White.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <lg>
+                  <l>And before him you may all rejoyce,</l>
+                  <l>And like Trumpets, lift up your glorious Voice:</l>
+                  <l>And Beloved, our Life is come,</l>
+                  <l>And we ſhall be cloathed with the Beauty of the Sun;</l>
+                  <pb n="14" facs="tcp:42430:9"/>
+                  <l>Who is come to reign in his Majeſty,</l>
+                  <l>Who is breaking forth, in this his glorious Day;</l>
+                  <l>Who ſhall reign, and over the Nations ſpread,</l>
+                  <l>And under his feet, his Enemies ſhall tread:</l>
+                  <l>So our Beloved is become our Life,</l>
+                  <l>We are his Virgins, and his Married Wife;</l>
+                  <l>Who are to him bound all in one Band,</l>
+                  <l>Who are rejoycing in the Holy Land:</l>
+                  <l>We are come unto the glorious Day,</l>
+                  <l>Therefore all haſten, and to it come away,</l>
+                  <l>That you may all be gathered in,</l>
+                  <l>Into the Pallace of the glorious King;</l>
+                  <l>That you all his Beauty behold</l>
+                  <l>That in his Love you may be wrapt and fold.</l>
+                  <l>Chriſt our Life, is now become our Head,</l>
+                  <l>And by his Power, hath rais'd us from the dead;</l>
+                  <l>And unto us he is become our All,</l>
+                  <l>Who in his Mercy hath ſav'd us from the Fall.</l>
+                  <l>This is the Day, wherein glad tidings is come,</l>
+                  <l>Therefore with ecchoes ſweet, ſing to the holy One.</l>
+                  <l>All you Babes, born of the Royal Birth,</l>
+                  <l>All ye that are of the Noble Seed, who are ſet free from Death.</l>
+                  <l>Lift up your Voice, and like a Trumpet ſing,</l>
+                  <l>Sound forth, ſound forth, the glory of <hi>Zions</hi> King;</l>
+                  <l>With ecchoes ſweet, give forth the glorious Sound,</l>
+                  <l>Throughout the world, with Glory, Honour, and Heavenly renown;</l>
+                  <l>That many may come and drink of <hi>Jacobs</hi> Well,</l>
+                  <l>Whoſe waters ſweet, in vertue doth excel;</l>
+                  <l>And in Chryſtal ſtreams, from his Throne doth ſlow,</l>
+                  <l>As doth rain deſcend, and into the Sea doth go.</l>
+                  <l>The <hi>Rest</hi> is come, the Sabbath is known,</l>
+                  <l>Glory be given to him, that ſitteth on the Throne.</l>
+               </lg>
+               <p>And this is a joyful ſound, that Immortality is come, that the Life and Power of Jeſus Chriſt is revealed, in the immor<g ref="char:EOLhyphen"/>tal Glory of God, in the overſhadowing of his Love, in the glory of his Brightneſs, in the excellency of his Beauty, he is riſen to reign in his Magiſtical Brightness, who is God over all; Glory for ever and ever: And this is the Salutation of Life, in the Love that is endleſs: Fare you all well.</p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:42430:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
